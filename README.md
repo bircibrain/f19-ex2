@@ -15,7 +15,7 @@ This assignment is due by 11:59PM ET 9/14.
 
 # Exercise
 
-Convert the DICOM data provided at XXX to BIDS format. You must include a command for converting a directory of DICOMs to BIDS form (i.e. the very last command of the BIDScoin process) that can be run on the HPC system using Singularity, but you are not required to perform the other steps on the cluster.
+Convert the DICOM data provided at `/scratch/psyc5171/exercises/ex2/NIDB-865.zip` to BIDS format. You must include a command for converting a directory of DICOMs to BIDS form (i.e. the very last command of the BIDScoin process) that can be run on the HPC system using Singularity, but you are not required to perform the other steps on the cluster.
 
 
 ## Overview of the experiment
